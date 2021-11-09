@@ -4,45 +4,79 @@
 # time:2021/11/08 19:12
 
 class DataPhoto(object):
-    data = [
+    datas = [
         [
             {
-                'method': 'login',
-                'loginname': 'jason',
-                'password': '1234567'
-            },
-            'Student Login',
-            'afda484fda8dfag84af8da84a8df4a',
-            True
+                "uid": "ffd73bf04aab43c587eaacb608f2ff68",
+                "pid": "asd1f8a181fas8dfad8sf1a0fa5a05"
+             },
+            2
         ],
         [
             {
-                'method': 'login',
-                'loginname': 'admin',
-                'password': 'root'
+                "uid": "9b950037db054490b25dbe267860b018",
+                "pid": "82ga48ds2fa48dsf4a8g2a8sf84as2"
             },
-            'Student Login',
-            'aasdfafas3243g4g0a5sg18df1sas2',
-            True
+            2
         ],
         [
             {
-                'method': 'login',
-                'loginname': 'admin',
-                'password': 'root'
+                "uid": "fc03932b4b654abab06d6984d6948bb1",
+                "pid": "asd1f8a181fas8dfad8sf1a0fa5a05"
             },
-            'Student Login',
-            'aasdfafas3243g4g0a5sg1f1sas2',
-            True
+            2
         ],
         [
             {
-                'method': 'login',
-                'loginname': 'admi',
-                'password': 'root'
+                "uid": "9e950e6f9177456388c2e084d9492aad",
+                "pid": "82ga48ds2fa48dsf4a8g2a8sf84as2"
             },
-            'Student Login',
-            'aasdfafas3243g4g0a5sg18df1sas2',
-            True
+            2
+        ],
+        [
+            {
+                "uid": "494ff668584449bb87ef3baef90ed265",
+                "pid": "asd1f8a181fas8dfad8sf1a0fa5a05"
+            },
+            2
         ]
+
+    ]
+    dataf = [
+        [
+            {
+                "uid": "ffd73bf04aab43c587evaacb608f2ff68",
+                "pid": "asd1f8a181fas8dfad8sf1a0fa5a05"
+            },
+            1
+        ],
+        [
+            {
+                "uid": "ffd73bf04aab43c587eaacb608f2ff68",
+                "pid": "asd1f8a181fas8dfadv8sf1a0fa5a05"
+            },
+            1
+        ],
+        [
+            {
+                "uid": "ffd73bf04aab43c587evaacb608f2ff68",
+                "pid": "asd1f8a181fas8dfadv8sf1a0fa5a05"
+            },
+            1
+        ],
+        [
+            {
+                "uid": "ffd73bf04aab43c587eaacb608f2ff68",
+                "pid": ""
+            },
+            1
+        ],
+        [
+            {
+                "uid": "",
+                "pid": "asd1f8a181fas8dfad8sf1a0fa5a05"
+            },
+            1
+        ]
+
     ]
